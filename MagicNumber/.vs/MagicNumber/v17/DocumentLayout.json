@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C\u002B\u002B\\MagicNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64257BBB-1B62-43B9-8C22-1987E39CB7EE}|MagicNumber\\MagicNumber.vcxproj|C:\\workspace\\C\u002B\u002B\\MagicNumber\\MagicNumber\\MagicNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64257BBB-1B62-43B9-8C22-1987E39CB7EE}|MagicNumber\\MagicNumber.vcxproj|solutionrelative:MagicNumber\\MagicNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MagicNumber.c",
+              "DocumentMoniker": "C:\\workspace\\C\u002B\u002B\\MagicNumber\\MagicNumber\\MagicNumber.c",
+              "RelativeDocumentMoniker": "MagicNumber\\MagicNumber.c",
+              "ToolTip": "C:\\workspace\\C\u002B\u002B\\MagicNumber\\MagicNumber\\MagicNumber.c",
+              "RelativeToolTip": "MagicNumber\\MagicNumber.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-16T10:16:29.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
