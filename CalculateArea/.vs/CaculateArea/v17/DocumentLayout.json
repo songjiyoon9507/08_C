@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C\u002B\u002B\\CalculateArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC4F996-9AB3-45F6-BC27-E2B8CDD090E0}|CalculateArea\\CalculateArea.vcxproj|C:\\workspace\\C\u002B\u002B\\CalculateArea\\CalculateArea\\area.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BC4F996-9AB3-45F6-BC27-E2B8CDD090E0}|CalculateArea\\CalculateArea.vcxproj|solutionrelative:CalculateArea\\area.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "area.c",
+              "DocumentMoniker": "C:\\workspace\\C\u002B\u002B\\CalculateArea\\CalculateArea\\area.c",
+              "RelativeDocumentMoniker": "CalculateArea\\area.c",
+              "ToolTip": "C:\\workspace\\C\u002B\u002B\\CalculateArea\\CalculateArea\\area.c",
+              "RelativeToolTip": "CalculateArea\\area.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-25T13:44:45.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
