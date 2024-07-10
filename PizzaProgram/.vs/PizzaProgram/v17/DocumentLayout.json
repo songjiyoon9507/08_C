@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C\u002B\u002B\\PizzaProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDF690-83C4-4806-8366-385D5658B5BD}|PizzaProgram\\PizzaProgram.vcxproj|C:\\workspace\\C\u002B\u002B\\PizzaProgram\\PizzaProgram\\pizzaSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40EDF690-83C4-4806-8366-385D5658B5BD}|PizzaProgram\\PizzaProgram.vcxproj|solutionrelative:PizzaProgram\\pizzaSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pizzaSize.c",
+              "DocumentMoniker": "C:\\workspace\\C\u002B\u002B\\PizzaProgram\\PizzaProgram\\pizzaSize.c",
+              "RelativeDocumentMoniker": "PizzaProgram\\pizzaSize.c",
+              "ToolTip": "C:\\workspace\\C\u002B\u002B\\PizzaProgram\\PizzaProgram\\pizzaSize.c",
+              "RelativeToolTip": "PizzaProgram\\pizzaSize.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-09T23:35:38.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
