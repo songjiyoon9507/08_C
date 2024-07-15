@@ -1,3 +1,3 @@
 ﻿  main.c
 C:\workspace\C++\SwitchCase\SwitchCase\main.c(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  SwitchCase.vcxproj -> C:\workspace\C++\SwitchCase\x64\Debug\SwitchCase.exe
+C:\workspace\C++\SwitchCase\SwitchCase\main.c(41,7): error C2052: 'double': case 식의 형식이 잘못되었습니다.

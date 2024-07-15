@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C\u002B\u002B\\SwitchChar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11587F85-49F0-4D7B-85E5-7A698B3C1498}|SwitchChar\\SwitchChar.vcxproj|C:\\workspace\\C\u002B\u002B\\SwitchChar\\SwitchChar\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11587F85-49F0-4D7B-85E5-7A698B3C1498}|SwitchChar\\SwitchChar.vcxproj|solutionrelative:SwitchChar\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\workspace\\C\u002B\u002B\\SwitchChar\\SwitchChar\\main.c",
+              "RelativeDocumentMoniker": "SwitchChar\\main.c",
+              "ToolTip": "C:\\workspace\\C\u002B\u002B\\SwitchChar\\SwitchChar\\main.c",
+              "RelativeToolTip": "SwitchChar\\main.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-15T14:52:25.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
