@@ -1,0 +1,14 @@
+﻿  main.c
+C:\workspace\C++\ProcessString\ProcessString\main.c(28,32): warning C4020: 'strcmp': 실제 매개 변수가 너무 많습니다.
+C:\workspace\C++\ProcessString\ProcessString\main.c(26,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(30,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(33,2): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(39,2): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(40,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(42,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(43,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(48,2): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(49,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(50,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\ProcessString\ProcessString\main.c(51,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ProcessString.vcxproj -> C:\workspace\C++\ProcessString\ProcessString\x64\Debug\ProcessString.exe
