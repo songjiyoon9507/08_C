@@ -1,0 +1,7 @@
+﻿  sale.c
+C:\workspace\C++\SaleProgramSubmit\SaleProgramSubmit\sale.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\SaleProgramSubmit\SaleProgramSubmit\sale.c(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\SaleProgramSubmit\SaleProgramSubmit\sale.c(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\SaleProgramSubmit\SaleProgramSubmit\sale.c(33,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\workspace\C++\SaleProgramSubmit\SaleProgramSubmit\sale.c(36,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SaleProgramSubmit.vcxproj -> C:\workspace\C++\SaleProgramSubmit\x64\Debug\SaleProgramSubmit.exe
